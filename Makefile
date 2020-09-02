@@ -1,7 +1,7 @@
-export IMAGE ?= dl_pytorch
+export IMAGE ?= tabnet-ts
 
-SERVICE := dl_pytorch
-SYSTEM_NETWORK := dl_pytorch
+SERVICE := tabnet-ts
+SYSTEM_NETWORK := tabnet-ts
 
 build: create-networks
 	@docker build --progress=plain -t $(IMAGE) -f docker/dockerfile . ;

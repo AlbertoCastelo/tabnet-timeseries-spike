@@ -1,1 +1,5 @@
 matplotlib==3.3.1
+seaborn==0.10.1
+pytorch-tabnet==1.2.0
+wget==3.2
+xgboost==1.2.0
