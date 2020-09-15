@@ -3,7 +3,7 @@
 In this Spike I review the use of [TabNet](https://arxiv.org/abs/1908.07442?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+arxiv%2FQSXk+%28ExcitingAds%21+cs+updates+on+arXiv.org%29) by Google AI using the Pytorch implementation by [Dreamquark-AI](https://github.com/dreamquark-ai/tabnet)
 on Timeseries data from Flight-Pasanger Dataset
 
-![](file:///home/alberto/Pictures/Screenshot%20from%202020-09-15%2019-50-39.png)
+![](imgs/timeseries.png)
 
 ## Quick commands
 
