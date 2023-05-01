@@ -3,4 +3,4 @@ seaborn==0.10.1
 pytorch-tabnet==1.2.0
 wget==3.2
 xgboost==1.2.0
-mlflow==1.11.0
+mlflow==2.3.1
